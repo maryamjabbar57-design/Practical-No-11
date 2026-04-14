@@ -7,4 +7,4 @@ def my_function():
     print(x)
 
 my_function()
-print(x)
+print("x")
